@@ -1,4 +1,5 @@
-👋 Hi, I’m @DaylonFellipe
-👽 Aspiring .NET Engineer | Learning, Growing, and Coding Every Day
+- 👋 Hi, I’m @DaylonFellipe
 
-![image](https://github.com/user-attachments/assets/58374395-3ede-4468-b00a-b3c272066cfa)
+- 👽 Aspiring .NET Engineer | Learning, Growing, and Coding Every Day
+
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
