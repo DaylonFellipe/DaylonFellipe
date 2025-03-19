@@ -2,6 +2,6 @@
 
 - 👽 Aspiring .NET Engineer | Learning, Growing, and Coding Every Day
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daylonfellipe)](https://github.com/anuraghazra/github-readme-stats)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 - [![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,dotnet)](https://skillicons.dev)
