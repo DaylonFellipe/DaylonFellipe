@@ -11,7 +11,7 @@
  <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylonfellipe&layout=compact&langs_count=7&theme=transparent"/>
  </div>
    
-
-<img align="center" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-          
+ <div align"center" weight="40" height="40">
+  - [![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,dotnet)](https://skillicons.dev) 
+ </div>
           
