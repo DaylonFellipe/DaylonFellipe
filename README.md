@@ -17,12 +17,6 @@
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="margin-right: 10px; margin-top: 30px;" />
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="margin-top: 30px;" />
 </div>
-![Backend Developers Trying to Center Things Using CSS](https://github.com/user-attachments/assets/f3ae7c84-b33d-4360-b1ff-6438cb94bf1d)
-
-<div  >
-
-</div>
-
 
 <div>
  
