@@ -6,14 +6,8 @@
 
 - 🍀 I am a learning .NET Backend Developer, motivated to face challenges and grow professionally. I have knowledge in C#, ASP.NET Core, in addition to studying good coding and architecture practices. I am looking for an opportunity to challenge myself by applying and expanding my knowledge.
 
-  <div>
- - <a href="https://github.com/daylonfellipe">
  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylonfellipe&layout=compact&langs_count=7&theme=transparent" style="margin-button: 20px; margin-top: 20px;"/>
- </div>
 
-
-
-   
 - <div dir="auto">
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="margin-right: 10px; margin-top: 30px;" />
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="margin-right: 10px; margin-top: 30px;" />
