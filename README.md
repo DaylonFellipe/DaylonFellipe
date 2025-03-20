@@ -8,8 +8,7 @@
 
 <div>
   <img align="center" loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylonfellipe&layout=compact&langs_count=7&theme=transparent" style="margin-button: 20px; margin-top: 20px;"/>
-<div align="center" height="150em" class="tenor-gif-embed" data-postid="24707001" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/back-end-sushi-kid-crying-gif-24707001">Back End Sushi GIF</a>from <a href="https://tenor.com/search/back+end-gifs">Back End GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-  
+<div class="tenor-gif-embed" data-postid="24707001" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/back-end-sushi-kid-crying-gif-24707001">Back End Sushi GIF</a>from <a href="https://tenor.com/search/back+end-gifs">Back End GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 
