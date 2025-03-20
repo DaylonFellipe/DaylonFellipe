@@ -8,7 +8,7 @@
 
  <div>
  <a href="https://github.com/daylonfellipe">
- <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylonfellipe&layout=compact&langs_count=7&theme=transparent"/>
+ <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylonfellipe&layout=compact&langs_count=7&theme=transparent" style="margin-button: 20px; margin-top: 20px;"/>
  </div>
 
 
