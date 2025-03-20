@@ -9,7 +9,7 @@
  <div>
  <a href="https://github.com/seu-usuário-aqui">
  <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylonfellipe&layout=compact&langs_count=7&theme=dark"/>
- <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=daylonfellipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+ <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=daylonfellipe&show_icons=github&theme=dark&include_all_commits=false&count_private=true"/>
  </div>
    
   - [![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,dotnet)](https://skillicons.dev)
