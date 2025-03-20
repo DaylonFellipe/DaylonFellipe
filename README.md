@@ -19,7 +19,7 @@
 </div>
 
 <div  >
-  <a align="center" width="50" height="40" ![Backend Developers Trying to Center Things Using CSS](https://github.com/user-attachments/assets/5090b775-1612-4891-98a0-4830443c38c8)/>
+![Backend Developers Trying to Center Things Using CSS](https://github.com/user-attachments/assets/f3ae7c84-b33d-4360-b1ff-6438cb94bf1d)
 
 </div>
 
