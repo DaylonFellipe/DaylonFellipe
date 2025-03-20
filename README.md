@@ -11,14 +11,11 @@
  <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylonfellipe&layout=compact&langs_count=7&theme=transparent"/>
  </div>
    
- <div dir="auto">
-   <img align="center" width="30" height"20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-   <img align="center" width="30" height"20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-   <img align="center" width="30" height"20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-   <img align="center" width="30" height"20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-   <img align="center" width="30" height"20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
- </div>
+<div dir="auto">
+   <img align="center" width="30" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="margin-right: 10px;" />
+   <img align="center" width="30" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="margin-right: 10px;" />
+   <img align="center" width="30" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="margin-right: 10px;" />
+   <img align="center" width="30" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="margin-right: 10px;" />
+   <img align="center" width="30" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+</div>
 
- <div>
-   ![Snake animation](https://github.com/daylonfellipe/daylonfellipe/blob/output/github-contribution-grid-snake.svg)
- </div>
