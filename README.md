@@ -14,6 +14,6 @@
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="margin-right: 10px; margin-top: 30px;" />
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="margin-right: 10px; margin-top: 30px;" />
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="margin-top: 30px;" />
-<img align="right" alt="daylon-yoda" src="https://media1.tenor.com/m/soWJduUFlq8AAAAd/back-end-sushi.gif"/>
 </div>
-
+                      
+                                                                    
