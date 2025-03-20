@@ -18,8 +18,10 @@
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="margin-top: 30px;" />
 </div>
 
-![Backend Developers Trying to Center Things Using CSS](https://github.com/user-attachments/assets/5090b775-1612-4891-98a0-4830443c38c8)
+<div width="60" height="60" >
+ ![Backend Developers Trying to Center Things Using CSS](https://github.com/user-attachments/assets/5090b775-1612-4891-98a0-4830443c38c8)
 
+</div>
 
 
 <div>
