@@ -11,7 +11,10 @@
  <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylonfellipe&layout=compact&langs_count=7&theme=transparent"/>
  </div>
    
- <div align"center" weight="40" height="40">
-  - [![My Skills](https://skillicons.dev/icons?i=visualstudio,cs,dotnet)](https://skillicons.dev) 
+ <div>
+<img align="center" width="40" height"30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+   <img align="center" width="40" height"30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+   <img align="center" width="40" height"30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+   <img align="center" width="40" height"30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+   <img align="center" width="40" height"30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
  </div>
-          
