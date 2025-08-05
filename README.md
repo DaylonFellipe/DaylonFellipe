@@ -2,9 +2,9 @@
   
 - 👽 Aspiring .NET Developer | Learning, Growing, and Coding
 
-- 🌱 Sou um Desenvolvedor .NET em aprendizado, motivado a enfrentar desafios e crescer profissionalmente. Tenho conhecimentos em C#, ASP.NET Core, além de estudar boas práticas de código e arquitetura. Busco uma oportunidade para me desafiar aplicando e expandindo meus conhecimentos.
+- 🌱 I am a learning .NET Developer, motivated to face challenges and grow professionally. I have knowledge in C#, ASP.NET Core, in addition to studying good coding and architecture practices. I am looking for an opportunity to challenge myself by applying and expanding my knowledge.
 
-- 🍀 I am a learning .NET Developer, motivated to face challenges and grow professionally. I have knowledge in C#, ASP.NET Core, in addition to studying good coding and architecture practices. I am looking for an opportunity to challenge myself by applying and expanding my knowledge.
+- 🍀 Sou um Desenvolvedor .NET em aprendizado, motivado a enfrentar desafios e crescer profissionalmente. Tenho conhecimentos em C#, ASP.NET Core, além de estudar boas práticas de código e arquitetura. Busco uma oportunidade para me desafiar aplicando e expandindo meus conhecimentos.
 
 <table align="right">
   <tr>
