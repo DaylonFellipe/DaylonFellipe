@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-<img width="450" height="150em" alt="github-header-banner" src="https://github.com/user-attachments/assets/265f2495-8e15-40b7-8657-52dc311a30f4" style="margin-button: 20px; margin-top: 20px;"/>
+<img width="350" height="150em" alt="github-header-banner" src="https://github.com/user-attachments/assets/265f2495-8e15-40b7-8657-52dc311a30f4" style="margin-button: 20px; margin-top: 20px;"/>
 
 <div style="display: inline_block">
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="margin-right: 12px; margin-top: 30px;" />
