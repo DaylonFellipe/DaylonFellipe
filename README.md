@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @DaylonFellipe
-  
 - 👽 Aspiring .NET Developer | Learning, Growing, and Coding
 
 - 🌱 I am a learning .NET Developer, motivated to face challenges and grow professionally. I have knowledge in C#, ASP.NET Core, in addition to studying good coding and architecture practices. I am looking for an opportunity to challenge myself by applying and expanding my knowledge.
