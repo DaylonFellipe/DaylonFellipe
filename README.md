@@ -15,7 +15,10 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylonfellipe&layout=compact&langs_count=7&theme=transparent&cache_seconds=86400"/>
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=daylonfellipe&layout=compact&theme=transparent"
+ onerror="this.onerror=null;this.src='https://github.com/user-attachments/assets/4ac250a4-3804-4cfe-923c-55334c0dc758"
+/>
 
 <div style="display: inline_block">
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" style="margin-right: 12px; margin-top: 30px;" />
@@ -25,3 +28,5 @@
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" style="margin-right: 12px; margin-top: 30px;" />
    <img align="center" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="margin-top: 30px;" />
 </div>
+
+
