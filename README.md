@@ -1,4 +1,8 @@
-- 👽 Aspiring .NET Developer | Learning, Growing, and Coding
+- 👽 Aspiring Backend.NET Developer
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=41434D&size=20&center=true&vCenter=true&width=600&lines=💻+Learning,+Growing,+and+Coding+🚀" />
+</div>
 
 - 🌱 I am a learning .NET Developer, motivated to face challenges and grow professionally. I have knowledge in C#, ASP.NET Core, in addition to studying good coding and architecture practices. I am looking for an opportunity to challenge myself by applying and expanding my knowledge.
 
@@ -26,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="50" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="50" />
   <img width="12" />
